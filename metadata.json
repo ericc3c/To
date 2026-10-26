@@ -1,0 +1,6 @@
+{
+  "name": "Shiosai: Setouchi Late Summer",
+  "description": "A tranquil 3D first-person and third-person Studio Ghibli and Makoto Shinkai inspired walking simulator set on a late-summer Japanese Setouchi island.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
